@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "jfr-agent",
+  "version": "1.0.0",
+  "description": "Analyse Java Flight Recorder (JFR) and async-profiler recordings: find slow methods, JDK time sinks, thread/virtual-thread problems, custom-event drill-downs and flamegraphs, and get help fixing the bottleneck.",
+  "author": {
+    "name": "Muthu Palaniyappan"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jfr",
+    "java",
+    "profiling",
+    "performance",
+    "flamegraph",
+    "async-profiler",
+    "virtual-threads",
+    "mcp"
+  ]
+}
